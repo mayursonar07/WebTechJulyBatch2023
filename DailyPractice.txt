@@ -1,0 +1,41 @@
+
+Everyday practice questions
+
+**********
+Typing speed should increase in next 1 month
+Make use of Visual code shortcuts (try to minimise the usage of mouse)
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+Debug every code that you write.
+********
+
+
+Hoisting
+    Theory: 
+        what is Temporal dead zone?
+        Diffrence between const let var
+    Practice:
+        Basic example to show the difference between errors that you get due to hoisting of const,let,var
+
+
+Arrays
+    Theory:
+        What are foreach, map, filter, reduce. diff between them.
+    Practice:
+        Example of each map, filter and reduce
+        Example for some other functions like every(), find(), ...etc.
+        compareFunction for sorting array of objects
+
+Spread operator:
+    Theory:
+        What is spread operator.
+        What are all the uses of spread operator
+    Pratice:
+        Practice all the usecases of spread.
+
+Array and Object DESTRUCTURING
+    Practice:
+        Destructure simple and nested arrays and objects.
+        Take some exmaples from internet
+
+
